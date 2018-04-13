@@ -2,23 +2,21 @@
 
 <div>微信小程序“约球呀”</div>
 本小程序已经完成并上线，本人将进行二次开发维护并将全部开源。
-欢迎交流！
-邮箱：shyshaohaiyang@163.com
-本小程序由 [bmob](https://www.bmob.cn/) 后端云提供数据处理与存储支持
+<div>欢迎各位大佬指教与交流！</div>
+<div>邮箱：shyshaohaiyang@163.com</div>
+
+
+<div style="align-content: center;">欢迎扫描体验</div>
 
 
 
 <center>
-欢迎扫描体验
-<center>
-
-</center>
 <img src="http://i2.bvimg.com/641261/1b9c083813a433d6.jpg" width="250px" />
 </center>
 
 
 
-## Bmob 配置
+
 
 ### 数据库表结构设计
 
